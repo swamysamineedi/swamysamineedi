@@ -1,7 +1,7 @@
 # 👋 Hi, I'm  Swamy Samineedi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=I Want To Be Software+Engineer;AI+%26+ML+Enthusiast;Cloud+%26+MERN+Intern;Java+%7C+Python+%7C+Full+Stack+Developer;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+ML+Enthusiast;Cloud+%26+MERN+Intern;Java+%7C+Python+%7C+Full+Stack+Developer;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
