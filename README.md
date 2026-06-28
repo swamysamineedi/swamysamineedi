@@ -16,6 +16,8 @@
 
 🚀 I enjoy building practical applications, writing clean code, and continuously learning new technologies.
 
+🌐 Portfolio: https://swamysamineedi.github.io/portfolio/
+
 ---
 
 # 🚀 Current Focus
