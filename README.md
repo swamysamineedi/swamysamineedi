@@ -94,12 +94,11 @@ HTML • CSS • JavaScript • PHP • MySQL
 </p>
 
 ---
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swamysamineedi&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swamysamineedi&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swamysamineedi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swamysamineedi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 
